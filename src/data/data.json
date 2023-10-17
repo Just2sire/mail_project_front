@@ -1,0 +1,172 @@
+{
+    "services": [
+        {
+            "img": "images/serv-1.png",
+            "type": "Resultat Garantie",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, delectus!"
+        },
+        {
+            "img": "images/serv-2.png",
+            "type": "Gratuité",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, delectus!"
+        },
+        {
+            "img": "images/serv-3.png",
+            "type": "Rapidité",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, delectus!"
+        },
+        {
+            "img": "images/serv-4.png",
+            "type": "Service Client",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, delectus!"
+        },
+        {
+            "img": "images/serv-5.png",
+            "type": "Approche Individuel",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, delectus!"
+        },
+        {
+            "img": "images/serv-6.png",
+            "type": "Equipe dédiée",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, delectus!"
+        }
+    ],
+    "works": [
+        { "src": "images/work-1.png" },
+        { "src": "images/work-2.png" },
+        { "src": "images/work-3.png" },
+        { "src": "images/work-4.png" },
+        { "src": "images/work-5.png" },
+        { "src": "images/work-6.png" },
+        { "src": "images/work-7.jpg" },
+        { "src": "images/work-8.jpg" },
+        { "src": "images/work-9.jpg" }
+    ],
+    "pricing": [
+        {
+            "type": "basic",
+            "price": 150,
+            "advantages": [
+                {
+                    "icon": "fas fa-check",
+                    "content": "Content quality check"
+                },
+                {
+                    "icon": "fas fa-check",
+                    "content": "Getting indexed"
+                },
+                {
+                    "icon": "fas fa-times",
+                    "content": "keywords"
+                },
+                {
+                    "icon": "fas fa-times",
+                    "content": "SEO analytics"
+                },
+                {
+                    "icon": "fas fa-times",
+                    "content": "maintainence"
+                }
+            ]
+        },
+        {
+            "type": "standard",
+            "price": 250,
+            "advantages": [
+                {
+                    "icon": "fas fa-check",
+                    "content": "Content quality check"
+                },
+                {
+                    "icon": "fas fa-check",
+                    "content": "Getting indexed"
+                },
+                {
+                    "icon": "fas fa-check",
+                    "content": "keywords"
+                },
+                {
+                    "icon": "fas fa-times",
+                    "content": "SEO analytics"
+                },
+                {
+                    "icon": "fas fa-times",
+                    "content": "maintainence"
+                }
+            ]
+        },
+        {
+            "type": "prenium",
+            "price": 650,
+            "advantages": [
+                {
+                    "icon": "fas fa-check",
+                    "content": "Content quality check"
+                },
+                {
+                    "icon": "fas fa-check",
+                    "content": "Getting indexed"
+                },
+                {
+                    "icon": "fas fa-check",
+                    "content": "keywords"
+                },
+                {
+                    "icon": "fas fa-check",
+                    "content": "SEO analytics"
+                },
+                {
+                    "icon": "fas fa-check",
+                    "content": "maintainence"
+                }
+            ]
+        }
+    ],
+    "reviews": [
+        {
+            "img": "images/pic-1.png",
+            "name": "JohnDeo",
+            "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi velit mollitia accusantium consequatur adipisci magni architecto quam tenetur rerum odio voluptas quia earum vero est error, illo beatae ut repudiandae!"
+        },
+        {
+            "img": "images/pic-2.png",
+            "name": "JohnDeo",
+            "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi velit mollitia accusantium consequatur adipisci magni architecto quam tenetur rerum odio voluptas quia earum vero est error, illo beatae ut repudiandae!"
+        },
+        {
+            "img": "images/pic-3.png",
+            "name": "JohnDeo",
+            "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi velit mollitia accusantium consequatur adipisci magni architecto quam tenetur rerum odio voluptas quia earum vero est error, illo beatae ut repudiandae!"
+        }
+    ],
+    "horaire": [
+        {
+            "day": "Lundi",
+            "hour": "24h/24"
+        },
+        {
+            "day": "Mardi",
+            "hour": "24h/24"
+        },
+        {
+            "day": "Mercredi",
+            "hour": "24h/24"
+        },
+        {
+            "day": "Jeudi",
+            "hour": "24h/24"
+        },
+        {
+            "day": "Vendredi",
+            "hour": "24h/24"
+        },
+        {
+            "day": "Samedi",
+            "hour": "07h-14h"
+        },
+        {
+            "day": "Dimanche",
+            "hour": "Fermé"
+        }
+    ]
+}
