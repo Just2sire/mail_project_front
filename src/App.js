@@ -1,4 +1,3 @@
-import './style.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import JsonData from './data/data.json';
 import Header from './components/layouts/header';

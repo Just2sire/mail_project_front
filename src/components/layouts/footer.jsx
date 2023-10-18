@@ -1,11 +1,10 @@
-import { Link } from "react-router-dom";
-
 const Footer = () => {
     return (
         <>
-            {/* <section className="quick-links">
+            {/* */}
+             <section className="quick-links">
 
-                <a href="#" className="logo"> se<i className="fas fa-search-dollar"></i> </a>
+                {/* <a href="#" rel="noreferrer" className="logo"> se<i className="fas fa-search-dollar"></i> </a> */}
 
                 <div className="links">
                     <a href="#home">home</a>
@@ -16,22 +15,30 @@ const Footer = () => {
                     <a href="#contact">contact</a>
                 </div>
 
-            </section> */}
+            </section>
 
             <section className="credit">
 
-                <p>created by <span>Coding™</span> | all rights reserved!</p>
+                <p>created by <span>Desire</span> | @</p>
 
                 <div className="share">
-                    <a href="facebook.com" className="fab fa-facebook-f"></a>
-                    <a href="twitter.com" className="fab fa-twitter"></a>
-                    <a href="instagram.com" className="fab fa-instagram"></a>
-                    <a href="github.com" className="fab fa-github"></a>
+                    <a href="https://facebook.com" target="_blank" rel="noreferrer">
+                        <i className="fab fa-facebook-f"></i>
+                    </a>
+                    <a href="https://twitter.com" target="_blank" rel="noreferrer" >
+                        <i className="fab fa-twitter"></i>
+                    </a>
+                    <a href="https://instagram.com" target="_blank" rel="noreferrer" >
+                        <i className="fab fa-instagram"></i>
+                    </a>
+                    <a href="https://github.com" target="_blank" rel="noreferrer" >
+                        <i className="fab fa-github"></i>
+                    </a>
                 </div>
 
             </section>
         </>
     );
 }
- 
+
 export default Footer;
